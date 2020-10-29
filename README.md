@@ -1,24 +1,33 @@
 # Taobao
 2020天猫淘宝双11自动领喵币吸猫脚本（过无障碍防检测）无后门无推广原生Auto.js纯净版
 
+[**Github JD**](https://github.com/roceys/JD)
+
 OSChina Gitee 同步仓库 [**Taobao**](https://gitee.com/roceys/Taobao)
 
-**请勿使用未知的app，基本上都有引流/广告/木马等植入，严重可造成用户隐私数据泄露。**
+OSChina Gitee 同步仓库 [**JD**](https://gitee.com/roceys/JD)
+
+**请勿使用未知的app或脚本，基本上都有引流/广告/木马等植入（不限于付费或免费加QQ或微信群推送淘宝客所谓低价优惠商品等）,严重可造成用户隐私数据泄露。本项目为B站全网首发（21号凌晨1-4点开发测试完成，github提交时间4点多可Commits查询首次具体时间），脚本之后陆续被羊毛党抄袭至吾爱破解（帖子目前因引流被删除）、微信公众号等平台。**
 
 ## <font color="red">食用方法</font>
 - [Auto.js APP 下载](https://github.com/github-h/Auto.js/releases/tag/V4.1.1.Alpha2)
 
 - 下载 **tmall1111-2020.js** 文件，通过Autojs APP导入脚本即可使用
+    - Github单独js文件下载[https://github.com/roceys/Taobao/raw/main/tmall1111-2020.js](https://github.com/roceys/Taobao/raw/main/tmall1111-2020.js) (需要科学上网)
+    - Gitee单独js文件下载[https://gitee.com/roceys/Taobao/raw/main/tmall1111-2020.js](https://gitee.com/roceys/Taobao/raw/main/tmall1111-2020.js) （国内高速下载） 
+    - 如果不方便或不会下载可以直接打开链接**全选**复制，再到Auto.js中新建文件**粘贴**即可
 
 - [PP助手](https://m.pp.cn/home.html)下载安装手淘 **9.5.7**
 
-- 支付宝任务有BUG，点击后秒返回即可完成，不用真正浏览**15**秒
+- 支付宝任务有BUG，点击后秒返回即可完成，不用真正浏览**15**秒 _（20201027 PM 官方已修复）_
 
 - 每天首次打开淘宝进入活动页时可能会出现【组队升级/升级领喵币】等弹窗暂时需要先手动关闭再运行脚本
 
 - 撸猫完毕后需要间隔一定时间继续撸才有喵币，隔天首次约645次
 
-- **即将加入自动更新功能**
+- **自动变为1%金币的检查下自己手机应用市场，有些会自动后台静默升级APP到最新版本的**
+
+- 本脚本支持自动更新功能，只需下载一次之后无需再手动下载更新！
 
 <br>
 
@@ -27,6 +36,22 @@ OSChina Gitee 同步仓库 [**Taobao**](https://gitee.com/roceys/Taobao)
 <br>
 
 # 更新说明
+
+## 20201029
+    新增脚本自动更新
+    新增Autojs版本检测
+    新增手淘版本检测
+    新增“组队PK人气”过滤
+    新增“明天再来”
+
+## 20201028
+    新增“我知道了”
+
+## 20201027
+    优化“关闭升级弹窗”
+
+## 20201026
+    更新下载方法，方便新手朋友使用
 
 ## 20201025
     新增自动关闭“升级更新”提示
